@@ -1,4 +1,5 @@
 {
+  "$schema": "https://cloud.yukibana.dev/schema/yukibana.json",
   "version": 1,
   "kind": "scala-sbt",
   "submission": {
