@@ -1,3 +1,2 @@
-object Example extends App {
+@main def main() =
   println("Hello, World!")
-}
